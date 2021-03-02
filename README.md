@@ -1,2 +1,2 @@
 # Binary-Search
-Implementing a Binary search in coding is one of the important fundamentals to understand in Computer Science. 
+Implementing a Binary search algorithm in coding is one of the important fundamentals to understand in Computer Science. This algorithm reduces time complexity to O(log(n)) meaning that it is much faster to find one possible location (target value) in the middle of the list with sorted array rather than naive search that goes through each item in the list to find the target value. 
